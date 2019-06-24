@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">To-do Tracker</string>
+    <string name="title_name">To-do Tracker</string>
+    <string name="title_start">Lets Go!</string>
+    <string name="title_authors">Authors</string>
+
+    <string name="back_button">Go Back</string>
+    <string name="create_button">Create</string>
+    <string name="submit_button">Submit</string>
+    <string name="clear_all">Clear All</string>
+    <string name="name_hint">Name your list here!</string>
+    <string name="item_hint">Add an item here!</string>
+
+
+
+    <string name="author_title">To-do Tracker, brought to you by:</string>
+    <string name="author_one">Jonathan Casselman</string>
+    <string name="author_two">James Way</string>
+
+
+</resources>
